@@ -568,6 +568,10 @@ html, body {
     width: 30%;
 }
 
+#mid-cont-d{
+    background-color: #1E293B;
+}
+
 #mid-cont-d-1 p{
     width: 80%;
     color: white;
